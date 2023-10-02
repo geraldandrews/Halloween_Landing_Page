@@ -159,10 +159,6 @@ body {
 }
 
 @media (max-width: 1024px) {
-.audio {
-    background: url('../images/background-desktop.png') no-repeat center center/cover;
-}
-
 .audio .title-img {
     width: 70%;
     margin: 350px 0;
