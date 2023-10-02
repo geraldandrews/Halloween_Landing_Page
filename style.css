@@ -183,7 +183,7 @@ body {
     
 @media (max-width: 820px) {
     .audio {
-        background: url('../images/background-mobile.png') no-repeat center center/contain;
+        background: url('../images/background-mobile.png') no-repeat center center/cover;
     }
     
     .audio .title-img {
